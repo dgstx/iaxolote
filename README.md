@@ -1,4 +1,4 @@
-Interactive CLI tool for installing and updating Izing.io
+Interactive CLI tool for installing and updating 
 
 ### download & setup
 
